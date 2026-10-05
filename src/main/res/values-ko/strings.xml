@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fi_title">문의 사항</string>
+    <string name="fi_compose">새 문의</string>
+    <string name="fi_thread">문의</string>
+    <string name="fi_inbox">내 문의</string>
+    <string name="fi_close">닫기</string>
+    <string name="fi_refresh">새로고침</string>
+    <string name="fi_transfer">앱·기기 정보도 함께 보내요</string>
+    <string name="fi_transfer_body">앱 이름·식별자·버전·빌드, OS·버전·기기 종류·언어를 함께 전송해요. 기기 고유 ID·이메일·위치·앱의 다른 기록은 자동으로 보내지 않아요.</string>
+    <string name="fi_body">문의 내용</string>
+    <string name="fi_reply">답변 입력</string>
+    <string name="fi_limit">1자부터 5,000자 이내로 적어 주세요. 전송할 내용이 너무 크면 줄여 주세요.</string>
+    <string name="fi_pending">전송 결과를 확인할 때까지 같은 메시지를 보관해요.</string>
+    <string name="fi_send">보내기</string>
+    <string name="fi_reconcile">전송 결과 다시 확인</string>
+    <string name="fi_retry">다시 확인</string>
+    <string name="fi_saved_read_failed">내용은 저장됐지만 대화를 불러오지 못했어요. 새로고침으로 다시 확인해 주세요.</string>
+    <string name="fi_cleanup">서버에 저장됐지만 기기의 전송 정보 정리가 실패했어요. 같은 메시지로 다시 확인해 주세요.</string>
+    <string name="fi_rejection_cleanup">전송 거절은 확인했지만 기기의 전송 정보를 정리하지 못했어요.</string>
+    <string name="fi_sending">보내는 중</string>
+    <string name="fi_loading">문의를 확인하는 중</string>
+    <string name="fi_new">새 문의 작성</string>
+    <string name="fi_intro">회원가입 없이 개발자와 비공개로 대화해요.</string>
+    <string name="fi_empty">아직 보낸 문의가 없어요.</string>
+    <string name="fi_closed">종료됨</string>
+    <string name="fi_answered">개발자 답변</string>
+    <string name="fi_open">대화 중</string>
+    <string name="fi_more_threads">문의 더 보기</string>
+    <string name="fi_older">이전 대화 보기</string>
+    <string name="fi_help">문의 이용 안내</string>
+    <string name="fi_help_body">문의는 이 앱과 개발자 사이에만 보입니다. 앱 데이터 삭제·앱 삭제·기기 변경 시 이전 문의를 다시 열지 못할 수 있어요. 문의 삭제는 개발자에게 요청해 주세요.</string>
+    <string name="fi_closed_body">종료된 문의예요. 새 문의를 작성해 주세요.</string>
+    <string name="fi_me">나</string>
+    <string name="fi_developer">개발자</string>
+    <string name="fi_config_error">앱과 문의 서버의 연결 설정을 확인하지 못했어요. 개발자에게 알려 주세요.</string>
+    <string name="fi_storage">보관된 문의 정보를 확인하지 못했어요. 데이터는 초기화하지 않았습니다.</string>
+    <string name="fi_daily">오늘 새 문의를 모두 작성했어요. 열린 문의에서는 계속 대화할 수 있어요.</string>
+    <string name="fi_burst">잠시 기다린 뒤 다시 보내 주세요.</string>
+    <string name="fi_blocked">이 설치에서는 새 메시지를 보낼 수 없어요. 이전 대화는 확인할 수 있어요.</string>
+    <string name="fi_unknown">연결 결과를 확인하지 못했어요. 잠시 후 같은 문의로 다시 확인해 주세요.</string>
+</resources>

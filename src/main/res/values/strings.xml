@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fi_title">Support inbox</string>
+    <string name="fi_compose">New inquiry</string>
+    <string name="fi_thread">Inquiry</string>
+    <string name="fi_inbox">My inquiries</string>
+    <string name="fi_close">Close</string>
+    <string name="fi_refresh">Refresh</string>
+    <string name="fi_transfer">App and device information is included</string>
+    <string name="fi_transfer_body">App name/ID/version/build, OS/version, generic device family and language are sent with your message. No unique device ID, email, location or other app records are automatically sent.</string>
+    <string name="fi_body">Inquiry text</string>
+    <string name="fi_reply">Reply</string>
+    <string name="fi_limit">Use 1 to 5,000 characters. Shorten unusually large content.</string>
+    <string name="fi_pending">The exact message is kept until its outcome is confirmed.</string>
+    <string name="fi_send">Send</string>
+    <string name="fi_reconcile">Confirm send outcome</string>
+    <string name="fi_retry">Try again</string>
+    <string name="fi_saved_read_failed">Your message is saved, but the conversation could not be refreshed.</string>
+    <string name="fi_cleanup">Saved on the server. Local cleanup failed; confirm again with the same message.</string>
+    <string name="fi_rejection_cleanup">Rejection was confirmed, but local recovery information could not be cleared.</string>
+    <string name="fi_sending">Sending</string>
+    <string name="fi_loading">Checking inquiries</string>
+    <string name="fi_new">Write an inquiry</string>
+    <string name="fi_intro">Private correspondence with the developer, without signing up.</string>
+    <string name="fi_empty">No inquiries yet.</string>
+    <string name="fi_closed">Closed</string>
+    <string name="fi_answered">Developer reply</string>
+    <string name="fi_open">Open conversation</string>
+    <string name="fi_more_threads">More inquiries</string>
+    <string name="fi_older">Earlier messages</string>
+    <string name="fi_help">About inquiries</string>
+    <string name="fi_help_body">Only this app and its developer can view your inquiries. Clearing app data, uninstalling or changing devices can lose access. Ask the developer to delete cloud correspondence.</string>
+    <string name="fi_closed_body">This inquiry is closed. Write a new inquiry to continue.</string>
+    <string name="fi_me">Me</string>
+    <string name="fi_developer">Developer</string>
+    <string name="fi_config_error">The app support connection is not configured correctly. Contact the developer.</string>
+    <string name="fi_storage">Stored inquiry information is unavailable. It has not been reset.</string>
+    <string name="fi_daily">Today’s new-inquiry limit is reached. Existing open conversations can continue.</string>
+    <string name="fi_burst">Please wait briefly before sending again.</string>
+    <string name="fi_blocked">New messages are unavailable on this installation. Previous conversations remain readable.</string>
+    <string name="fi_unknown">The connection outcome is unknown. Try again with the same inquiry.</string>
+</resources>
